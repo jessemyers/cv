@@ -3,7 +3,12 @@ title: Curriculum Vitae
 ---
 # Jesse Myers
 
-Lorem ipsum...
+I build software systems, architectures, and teams that work well together to create great products.
+I believe that a great architecture serves the needs of people and helps them fulful the values of
+their team; I believe that an architect must blend hands-on development -- in order to know these needs
+-- servant leaderships, and deep technical expertise.
+
+I am looking for an opportunity to exercise these talents in value-driven setting.
 
 {{% grid %}}
 
@@ -43,13 +48,17 @@ Graduated Summe Cum Laude with Phi Beta Kappa honors.
   * REST
   * AWS
   * Terraform
+  * Ansible
 
 #### Familiar with
   * Node.js
   * GraphQL
+  * Elasticsearch
+  * Neo4J
 
 #### Interested in
   * Microservices
+  * Event-sourcing
   * Distributed Systems
   * TLA+
 
