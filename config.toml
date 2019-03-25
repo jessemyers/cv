@@ -1,0 +1,5 @@
+baseURL = "https://cv.jessemyers.com/"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+languageCode = "en-us"
+title = "Curriculum Vitae"
+theme = "winning"
