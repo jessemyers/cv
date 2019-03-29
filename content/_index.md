@@ -28,7 +28,7 @@ Globality raised $100M in funding from SoftBank Vision Fund in January 2019.
 * Established DevOps function and built foundations for using AWS with Terraform, Ansible, and CircleCI.
 * Enabled adoption of new technologies including Docker, Elasticsearch, and Neo4J.
 
-{{% printonly %}}
+<!--
 <br/>
 <br/>
 <br/>
@@ -37,7 +37,7 @@ Globality raised $100M in funding from SoftBank Vision Fund in January 2019.
 <br/>
 <br/>
 <br/>
-{{% /printonly %}}
+-->
 
 ###### *August 2001 - January 2016*
 ### Location Labs - Chief Scientist
