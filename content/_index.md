@@ -21,7 +21,7 @@ Globality raised $100M in funding from SoftBank Vision Fund in January 2019.
 
 * Wrote large portions of the product, including core services related to conversational AI, workflow state
   machines, knowledge representation, and data processing pipelines.
-* Partnered with product, customer success, and IT Sec to lead many mission-critical initiatives, including
+* Partnered with product, customer success, and InfoSec to lead many mission-critical initiatives, including
   a next-generation user experience, enterprise approvals, and data security.
 * Created open source libraries for core infrastructure to accelerate microservice development.
 * Led engineering best practices, technical designs, and release processes.
@@ -44,23 +44,25 @@ Globality raised $100M in funding from SoftBank Vision Fund in January 2019.
 
 Joined when there were fewer than ten employees; helped grow the organization through profitability and acquisition.
 Held many roles, launched multiple product lines, and wore many hats as part of building core software and growing teams.
-Location Labs was purchased by AVG and then by Avast.
+Location Labs was acquired by AVG and then by Avast.
 
  * Wrote the company's initial location-based services product;
    led deployment and launch within SK telecom's network.
- * Designed and helped build a pioneering, pre-smart phone mobile mapping and navigation application;
+ * Designed and helped build a pioneering, pre-smartphone mobile mapping and navigation application;
    launched on Sprint in conjunction with InterActive Corp (IAC) brand properties.
  * Created a first-of-its-kind, privacy-aware location aggregation product; authored integrations with
    all major US cellular carriers (AT&T, Sprint, T-Mobile, and Verizon).
+ * Scaled pre-installed mobile device management software to tens of millions of devices and bursts of
+   thousands of events per second.
  * Led engineering best practices and adoption of many new technologies;
    championed use of Python, Jenkins, Docker, and microservices.
  * Managed teams, mentored extensively, and ran several company-wide trainings.
 
 ## Education
 ###### *August 1997 - May 2001*
-### Brown University - ScB Mathematics and Computer Science
+### Brown University - BS Mathematics and Computer Science
 
-Graduated *summa cum laude* with Phi Beta Kappa honors.
+Graduated *summa cum laude* with *Phi Beta Kappa* honors.
 
 {{% /column %}}
 
