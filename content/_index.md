@@ -20,13 +20,13 @@ Helped grow the product and team in close collaboration with the CTO and VP Engi
 Globality raised $100M in funding from SoftBank Vision Fund in January 2019.
 
 * Wrote large portions of the product, including core services related to conversational AI, workflow state
-  machines, and the data pipeline.
+  machines, knowledge representation, and data processing pipelines.
 * Partnered with product, customer success, and IT Sec to lead many mission-critical initiatives, including
-  a next-generation user experience, enterprise approvals, and encryption best practices.
+  a next-generation user experience, enterprise approvals, and data security.
 * Created open source libraries for core infrastructure to accelerate microservice development.
 * Led engineering best practices, technical designs, and release processes.
-* Established DevOps function and built foundations for using AWS with Terraform, Ansible, and CircleCI.
-* Enabled adoption of new technologies including Docker, Elasticsearch, and Neo4J.
+* Established a DevOps function and built foundations for using AWS with Terraform, Ansible, and CircleCI.
+* Enabled adoption of new technologies including ECS, Elasticsearch, and Neo4J.
 
 <!--
 <br/>
@@ -50,7 +50,7 @@ Location Labs was purchased by AVG and then by Avast.
    led deployment and launch within SK telecom's network.
  * Designed and helped build a pioneering, pre-smart phone mobile mapping and navigation application;
    launched on Sprint in conjunction with InterActive Corp (IAC) brand properties.
- * Created a first-of-its-kind, privacy-aware location aggregation product; created integrations with
+ * Created a first-of-its-kind, privacy-aware location aggregation product; authored integrations with
    all major US cellular carriers (AT&T, Sprint, T-Mobile, and Verizon).
  * Led engineering best practices and adoption of many new technologies;
    championed use of Python, Jenkins, Docker, and microservices.
