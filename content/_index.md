@@ -16,7 +16,7 @@ I see software architecture as a means to use my deep technical expertise to ena
 ### Globality - Chief Architect
 
 Architected and built core systems for a hundred+ microservice ecosystem.
-Helped grow the product and team in close collaboration with the CTO and VP Engineering.
+Helped grow the product and team in close collaboration with the CTO and VP of Engineering.
 Globality raised $100M in funding from SoftBank Vision Fund in January 2019.
 
 * Wrote large portions of the product, including core services related to conversational AI, workflow state
@@ -98,11 +98,9 @@ Graduated *summa cum laude* with Phi Beta Kappa honors.
  * [pluscal](https://github.com/jessemyers/pluscal)
  * [flake8-logging-format](https://github.com/globality-corp/flake8-logging-format)
 
-{{% printonly %}}
 ## References
 
-Available upon request. <!-- Please contact me at [youremail@email.com](mailto:youremail@email.com) for references. -->
-{{% /printonly %}}
+Available upon request.
 
 {{% /column %}}
 
