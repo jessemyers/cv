@@ -28,13 +28,32 @@ Globality raised $100M in funding from SoftBank Vision Fund in January 2019.
 * Established DevOps function and built foundations for using AWS with Terraform, Ansible, and CircleCI.
 * Enabled adoption of new technologies including Docker, Elasticsearch, and Neo4J.
 
+{{% printonly %}}
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+{{% /printonly %}}
+
 ###### *August 2001 - January 2016*
 ### Location Labs - Chief Scientist
 
-Held many roles and wore many hats. Location Labs was purchased by AVG and then by Avast.
+Joined when there were fewer than ten employees; helped grow the organization through profitability and acquisition.
+Held many roles, launched multiple product lines, and wore many hats as part of building core software and growing teams.
+Location Labs was purchased by AVG and then by Avast.
 
- * Designed and built key systems; launched multiple new products.
- * Adopted new technologies and created technical standards.
+ * Wrote the company's initial location-based services product;
+   led deployment and launch within SK telecom's network.
+ * Designed and helped build a pioneering, pre-smart phone mobile mapping and navigation application;
+   launched on Sprint in conjunction with InterActive Corp (IAC) brand properties.
+ * Created a first-of-its-kind, privacy-aware location aggregation product; created integrations with
+   all major US cellular carriers (AT&T, Sprint, T-Mobile, and Verizon).
+ * Led engineering best practices and adoption of many new technologies;
+   championed use of Python, Jenkins, Docker, and microservices.
  * Managed teams, mentored extensively, and ran several company-wide trainings.
 
 ## Education
@@ -46,6 +65,12 @@ Graduated *summa cum laude* with Phi Beta Kappa honors.
 {{% /column %}}
 
 {{% column -span-cols-4 -p-left-3 %}}
+
+#### Located in
+
+  * San Francisco, CA
+  * Open to remote work
+
 #### Fluent with
   * Python
   * PostgreSQL
@@ -66,17 +91,19 @@ Graduated *summa cum laude* with Phi Beta Kappa honors.
   * Distributed Systems
 
 #### Key open source projects
- * [microcosm](https://microcosm.dev)
- * [nodule](https://nodule.dev)
+ * [microcosm (15 libraries)](https://microcosm.dev)
+ * [nodule (6 libraries)](https://nodule.dev)
  * [openapi](https://github.com/globality-corp/openapi)
  * [opencypher](https://github.com/globality-corp/opencypher)
  * [pluscal](https://github.com/jessemyers/pluscal)
  * [flake8-logging-format](https://github.com/globality-corp/flake8-logging-format)
 
 {{% printonly %}}
-##   References
-Please contact me at [youremail@email.com](mailto:youremail@email.com) for references.
+## References
+
+Available upon request. <!-- Please contact me at [youremail@email.com](mailto:youremail@email.com) for references. -->
 {{% /printonly %}}
 
 {{% /column %}}
+
 {{% /grid %}}
