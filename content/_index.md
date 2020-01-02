@@ -15,11 +15,12 @@ I see software architecture as a means to use my deep technical expertise to ena
 ###### *August 2019 - Current*
 ### Various - Software Architecture Consulting
 
-Providing both high-level (architecture, strategy, process, culture) and low-level (hands-on implementation
-of technial designs, backend services, and cloud infrastructure) consulting services to multiple companies.
+Providing both high-level (architecture, strategy, process, culture, mentorship) and low-level (hands-on
+implementation of technial designs, backend services, and cloud infrastructure) consulting services to
+multiple client companies.
 
-Clients include a series-D insurance startup with a billion dollar valuation and a stealth startup developing
-generative video technology for personal and professional content creation.
+Clients include a series-D insurance startup with a billion dollar valuation and a stealth startup
+developing generative video technology for personal and professional content creation.
 
 
 ###### *February 2016 - March 2019*
