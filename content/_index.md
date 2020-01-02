@@ -12,6 +12,16 @@ I see software architecture as a means to use my deep technical expertise to ena
 
 {{% column -span-cols-6 -m-right-2 %}}
 ## Professional Experience
+###### *August 2019 - Current*
+### Various - Software Architecture Consulting
+
+Providing both high-level (architecture, strategy, process, culture) and low-level (hands-on implementation
+of technial designs, backend services, and cloud infrastructure) consulting services to multiple companies.
+
+Clients include a series-D insurance startup with a billion dollar valuation and a stealth startup developing
+generative video technology for personal and professional content creation.
+
+
 ###### *February 2016 - March 2019*
 ### Globality - Chief Architect
 
